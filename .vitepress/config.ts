@@ -1,0 +1,28 @@
+import { defineConfig } from 'vitepress'
+
+// https://vitepress.dev/reference/site-config
+export default defineConfig({
+  title: "Moon Blog",
+  description: "关于MuteMoon的任何事",
+  themeConfig: {
+    // https://vitepress.dev/reference/default-theme-config
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: '心法', link: '/markdown-examples' }
+    ],
+
+    sidebar: [
+      {
+        text: '心法',
+        items: [
+          { text: '一句话心法', link: '/api-examples' },
+          { text: '思维方法', link: '/markdown-examples' },
+        ]
+      }
+    ],
+
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+    ]
+  }
+})
