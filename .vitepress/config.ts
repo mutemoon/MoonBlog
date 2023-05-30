@@ -17,6 +17,7 @@ export default defineConfig({
         items: [
           { text: '一句话心法', link: '/api-examples' },
           { text: '思维方法', link: '/markdown-examples' },
+          { text: '皮肤管理', link: '/SkinCare' },
         ]
       }
     ],
