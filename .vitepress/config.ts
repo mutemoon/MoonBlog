@@ -18,6 +18,8 @@ export default defineConfig({
           { text: '一句话心法', link: '/api-examples' },
           { text: '思维方法', link: '/markdown-examples' },
           { text: '皮肤管理', link: '/SkinCare' },
+          { text: '化妆', link: '/MakeUp' },
+          { text: '拍照', link: '/Photograph' },
         ]
       }
     ],
