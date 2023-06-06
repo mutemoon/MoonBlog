@@ -15,13 +15,46 @@ export default defineConfig({
       {
         text: '心法',
         items: [
-          { text: '一句话心法', link: '/api-examples' },
-          { text: '思维方法', link: '/markdown-examples' },
-          { text: '皮肤管理', link: '/SkinCare' },
-          { text: '化妆', link: '/MakeUp' },
-          { text: '拍照', link: '/Photograph' },
+          {
+            text: '一句话心法',
+            link: '/api-examples'
+          },
+          {
+            text: '思维方法',
+            link: '/markdown-examples'
+          },
         ]
-      }
+      },
+      {
+        text: '形象管理',
+        items: [
+          {
+            text: '皮肤管理',
+            link: '/SkinCare',
+          },
+          {
+            text: '化妆',
+            link: '/MakeUp',
+          },
+          {
+            text: '拍照',
+            link: '/Photograph'
+          },
+        ]
+      },
+      {
+        text: '前端',
+        items: [
+          {
+            text: '工程化', items: [
+              {
+                text: 'Webpack',
+                link: '/Webpack'
+              }
+            ]
+          },
+        ]
+      },
     ],
 
     socialLinks: [
