@@ -17,7 +17,7 @@ export default defineConfig({
         items: [
           {
             text: '一句话心法',
-            link: '/api-examples'
+            link: '/Learn/Smart/OneShot'
           },
           {
             text: '思维方法',
@@ -48,11 +48,47 @@ export default defineConfig({
           {
             text: '工程化', items: [
               {
+                text: '模块化',
+                link: '/JSModule.md'
+              },
+              {
                 text: 'Webpack',
                 link: '/Webpack'
-              }
+              },
             ]
           },
+          {
+            text: '协议', items: [
+              {
+                text: 'HTTP协议',
+                link: '/HTTP.md'
+              },
+            ]
+          },
+          {
+            text: 'Vue', items: [
+              {
+                text: 'Vue3源码解析',
+                link: '/VueSource.md'
+              },
+            ]
+          },
+        ]
+      },
+      {
+        text: '韩语',
+        items: [
+          {
+            text: '字音', link: '/KoreanWordAudio.md'
+          },
+          // {
+          //   text: '字音', items: [
+          //     {
+          //       text: 'Webpack',
+          //       link: '/Webpack'
+          //     }
+          //   ]
+          // },
         ]
       },
     ],
