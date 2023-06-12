@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 心法
-      link: /markdown-examples
+      link: /Learn/Smart/OneShot
     - theme: alt
       text: API Examples
       link: /api-examples
