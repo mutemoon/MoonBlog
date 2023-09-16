@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as e}from"./chunks/framework.62a149d4.js";const C=JSON.parse('{"title":"思维方法","description":"","frontmatter":{},"headers":[],"relativePath":"Method.md","filePath":"Method.md"}'),t={name:"Method.md"},o=e("",25),p=[o];function l(i,c,r,d,h,m){return a(),n("div",null,p)}const A=s(t,[["render",l]]);export{C as __pageData,A as default};
