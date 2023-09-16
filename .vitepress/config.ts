@@ -93,6 +93,14 @@ export default defineConfig({
             },
           ]
         },
+        {
+          text: 'Linux',
+          items: [
+            {
+              text: 'wsl', link: '/Learn/Linux/WSL'
+            },
+          ]
+        },
       ]
     },
 
