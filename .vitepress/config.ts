@@ -10,7 +10,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: '学习', link: '/Learn/Smart/OneShot' },
-      { text: '工具', link: '/Learn' }
+      { text: '工具', link: '/Tools/' }
     ],
 
     sidebar: {

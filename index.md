@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "Moon Blog"
-  text: "记录任何事"
-  tagline: My great project tagline
+  name: MuteMoon
+  text: 对抗熵增中
+  tagline: 
   actions:
     - theme: brand
-      text: 心法
+      text: 学习
       link: /Learn/Smart/OneShot
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 工具
+      link: /Tools/
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 冥想
+    details: 脑中的声音总在喋喋不休
+  - title: 行动
+    details: 大脑对整件事的恐惧阻碍了最简单的迈开第一步
+  - title: 暗示
+    details: GPT在更好的提示词下会有更高质量的输出，人也一样
 ---
 

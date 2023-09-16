@@ -1,7 +1,5 @@
 # 思维方法
 
-记录一些思维方法。
-
 ## SMART原则
 
 用于目标管理。
@@ -26,54 +24,8 @@
 
 任务必须是有时间计划的，有deadline，没有时间计划的目标都是耍流氓。根据工作的权重、事情的轻重缓急制定完成的时间要求，就可以定期检查完成进度及风险控制。当然完成时间也不一定是一成不变的，可根据具体情况一起协商调整。
 
-## Custom Containers
+## 黄金圈法则
 
-**Input**
+用于思考。
 
-```md
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-```
-
-**Output**
-
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-
-## More
-
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+## 
