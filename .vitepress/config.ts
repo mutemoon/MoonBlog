@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Moon Blog",
   description: "关于MuteMoon的任何事",
+  base: "/MoonBlog/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
